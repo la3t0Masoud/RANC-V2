@@ -1,0 +1,5 @@
+*.mat filter=lfs diff=lfs merge=lfs -text
+*.dcp filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*_sim_netlist.v filter=lfs diff=lfs merge=lfs -text
+*_sim_netlist.vhdl filter=lfs diff=lfs merge=lfs -text
